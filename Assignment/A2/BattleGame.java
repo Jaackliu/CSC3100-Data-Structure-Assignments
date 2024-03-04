@@ -22,7 +22,7 @@ class Player implements Comparable<Player> {
     }
 }
 
-public class A2_P2_122090337 {
+public class BattleGame {
 
     public static Stack<Player> Floors = new Stack<Player>();
     public static Stack<Player> fightWaitlist = new Stack<Player>();
